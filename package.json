@@ -1,0 +1,28 @@
+{
+  "name": "concat",
+  "version": "0.0.0",
+  "description": "concat function for arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && covert test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/allouis/concat.git"
+  },
+  "keywords": [
+    "concat",
+    "array"
+  ],
+  "author": "Fabien O'Carroll <fabien@allou.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/concat/issues"
+  },
+  "homepage": "https://github.com/allouis/concat#readme",
+  "devDependencies": {
+    "covert": "^1.1.0",
+    "standard": "^6.0.8",
+    "tape": "^4.5.1"
+  }
+}
