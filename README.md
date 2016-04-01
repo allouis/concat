@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/allouis/concat.svg)](https://travis-ci.org/allouis/concat)
 # concat
 
 Simple wrapper over `Array.prototype.concat`
